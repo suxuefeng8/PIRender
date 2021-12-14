@@ -1,3 +1,5 @@
 __pycache__
 *.log
 result/
+vox_result/
+dataset/
